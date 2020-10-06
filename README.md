@@ -6,7 +6,7 @@ We will also try to describe ideas, tools and software to make this lessons **ac
 
 It is well known that there are not a real path to learn programming but this guide/index aims to cover simple topics and encourage people to learn with others solving simple exercises doing pair programming or taking a part of their time learning by themselves.
 
-## How to participate in pair programming lessons?
+## How to participate in pair programming lessons
 
 We try to schedule a pair programming exercise every week, free to join to all the participants in our Telegram group:
 
@@ -33,7 +33,7 @@ This repo have the following structure:
 
 * **Topics**: Includes a set of separate folders with the topics available to learn, and every topic folder includes inside a readme explaining the topic, and *examples* and *exercises* folder with their instructions.
 
-* **examples**: Inside this folder you will find a *README.md* with the example index and what every example teach or achive. Also the example files.
+* **examples**: Inside this folder you will find a *README.md* with the example index and what every example teach or achieve. Also the example files.
 
 * **exercises**:: Inside this folder you will find a *README.md* with exercises index and what every exercise teach or achieve. Also exercises files.
 
@@ -41,11 +41,17 @@ This repo have the following structure:
 
 This section will list any kind of tools that will help other people to access to this repo content.
 
-### Collaborative Code editors
+### Pair Programming code editors
 
-* Sublime text
- 
-* VsCode
+* [Replit](repl.it)
+* [Codesandbox](https://codesandbox.io/)
+* [Codeshare](https://codeshare.io/)
+
+### Common editors
+
+* [VScode](https://code.visualstudio.com/)
+* [Atom](https://atom.io/)
+* [SublimeText](https://www.sublimetext.com/)
 
 ### Mobile editors
 
@@ -54,17 +60,33 @@ This section will list any kind of tools that will help other people to access t
 ### Mobile Compilers/Interpreters
 
 * Mobile interpreter
+* Mobile compiler
 
 ## Development Status and Ideas
 
 ### Development Status
 
-Table w/ ideas vs status
+| idea                           | status |
+|--------------------------------|--------|
+| Create a repository            | Done   |
+| List possible topics           |        |
+| create a strong repo structure |        |
+| create collaboration rules     |        |
+| create a collab.templates      |        |
+| create pre commit hooks        |        |
+| create pull request template   |        |
 
-### Ideas
+### Ideas in develop
 
-* Idea 1
+1. Create a repository
+2. List possible topics
+3. Create a strong repo structure
+4. create collaboration rules
+5. create a collab.templates
+6. create pre commit hooks
+7. create pull request template
+8. Write "How to collaborate" section
+9. Find a pseudo code language to write examples
+10. Find more tools and add links in root readme
 
 ## How to collaborate
-
-
