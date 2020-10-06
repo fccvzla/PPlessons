@@ -46,12 +46,15 @@ This section will list any kind of tools that will help other people to access t
 * [Replit](repl.it)
 * [Codesandbox](https://codesandbox.io/)
 * [Codeshare](https://codeshare.io/)
+* [jsfiddle](https:/jsfiddle.net)
 
 ### Common editors
 
 * [VScode](https://code.visualstudio.com/)
 * [Atom](https://atom.io/)
 * [SublimeText](https://www.sublimetext.com/)
+* [Vim](https://www.vim.org/)
+* [Emacs](https://www.gnu.org/software/emacs/)
 
 ### Mobile editors
 
