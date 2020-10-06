@@ -55,12 +55,14 @@ This section will list any kind of tools that will help other people to access t
 
 ### Mobile editors
 
-* Mobile Editor
+* [Quoda](https://play.google.com/store/apps/details?id=com.henrythompson.quoda)
+* [Acode](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)
+* [Spck](https://play.google.com/store/apps/details?id=io.spck)
+* [EdC](https://play.google.com/store/apps/details?id=com.rhmsoft.code)
 
 ### Mobile Compilers/Interpreters
 
-* Mobile interpreter
-* Mobile compiler
+* [Online Compiler](https://play.google.com/store/apps/details?id=app.compiler)
 
 ## Development Status and Ideas
 
