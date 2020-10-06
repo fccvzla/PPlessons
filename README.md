@@ -1,1 +1,1 @@
-# PPlessons
+# This PPlessons repo was made with the intention of describing ideas, tools, and software, even dates and summaries of some of the pair programmings done and to be done for the freecodecamp venezuela community
