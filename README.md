@@ -10,7 +10,7 @@ It is well known that there are not a real path to learn programming but this gu
 
 We try to schedule a pair programming exercise every week, free to join to all the participants in our Telegram group:
 
-* Telegram Group: [FCC Venezuela]()
+* Telegram Group: [FCC Venezuela](https://t.me/fccvzla)
 
 ## Repo Structure
 
