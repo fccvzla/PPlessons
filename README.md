@@ -90,3 +90,9 @@ This section will list any kind of tools that will help other people to access t
 10. Find more tools and add links in root readme
 
 ## How to collaborate
+- You can write out ideas in the ideas.md section
+- Post tools and articles, and others things like exercises and topics.
+- adding issues in what you would like to see next
+### Guidelines
+...
+Just be civil and in context
