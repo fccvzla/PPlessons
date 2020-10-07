@@ -10,7 +10,7 @@ It is well known that there are not a real path to learn programming but this gu
 
 We try to schedule a pair programming exercise every week, free to join to all the participants in our Telegram group:
 
-* Telegram Group: [FCC Venezuela]()
+* Telegram Group: [FCC Venezuela](https://t.me/fccvzla)
 
 ## Repo Structure
 
@@ -58,12 +58,14 @@ This section will list any kind of tools that will help other people to access t
 
 ### Mobile editors
 
-* Mobile Editor
+* [Quoda](https://play.google.com/store/apps/details?id=com.henrythompson.quoda)
+* [Acode](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)
+* [Spck](https://play.google.com/store/apps/details?id=io.spck)
+* [EdC](https://play.google.com/store/apps/details?id=com.rhmsoft.code)
 
 ### Mobile Compilers/Interpreters
 
-* Mobile interpreter
-* Mobile compiler
+* [Online Compiler](https://play.google.com/store/apps/details?id=app.compiler)
 
 ## Development Status and Ideas
 
