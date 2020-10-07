@@ -16,6 +16,7 @@ We try to schedule a pair programming exercise every week, free to join to all t
 
 This repo have the following structure:
 
+``` bash
 .
 └── topics
     └── 01-example-topic
@@ -28,6 +29,7 @@ This repo have the following structure:
             ├── README.md
             ├── exercise-one
             └── exercise-two
+```
 
 * **Lessons**: Is the root directory for all the topics.
 
