@@ -13,4 +13,7 @@ move the data between blocks and structures
 
 ## References
 
+* [Variables Javascript](https://javascript.info/variables)
+* [The old Var keyword Javascript](https://javascript.info/var)
+* [The Global Object keyword Javascript](https://javascript.info/global-object)
 * [Hoisting Javascript](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
