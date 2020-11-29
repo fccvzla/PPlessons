@@ -5,8 +5,7 @@ move the data between blocks and structures
 
 ## Previous Knowledge
 
-
-* variables Assignment
+* Variables Assignment
 * What is a constant? And how do they work?
 * Scope
 * Hoisting
