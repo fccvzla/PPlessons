@@ -2,5 +2,5 @@
 
 ## Exercises
 
-* Variables: Check the differences between different declaration keywords for variables and constants
+* Variables: Check the differences between variable declaration keywords
 * Scope: Check the scope for the variables explained before
