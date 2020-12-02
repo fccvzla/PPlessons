@@ -4,11 +4,10 @@ In this chapter we will talk about how variables behave in different contexts, h
 
 ## Previous Knowledge
 
-* Variables Assignment
+* What is a variable
 * What is a constant? And how do they work?
-* Scope
-* Hoisting
-* Simple Functions
+* What is Scope
+
 
 ## References
 
