@@ -1,6 +1,6 @@
 # Functions and prototypes
 
-In this topic we are going to talk about the different kind of functions, and explain little by litle how to structure our code by adding functions and prototypes, making our code more modular and recyclable
+In this topic we are going to talk about the different kind of functions, and explain Step by step how to structure our code by adding functions and prototypes, making our code more modular and reusable
 
 ## Topics:
 
@@ -14,12 +14,10 @@ In this topic we are going to talk about the different kind of functions, and ex
 
 ## Previous Knowledge
 
-* variables Assignment
-* functions
+* Variables Assignment
+* What are functions?
 * What does the prototype keyword mean in javascript
-* fat arrow functions
-* Scope
-* Inheritance
+
 
 
 ## References
