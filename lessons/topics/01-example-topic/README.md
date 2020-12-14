@@ -12,7 +12,8 @@ List or links to this repository for previous Knowledge topics eg.:
 
 ## References
 
-Provide all the references to official documentations (to reduce broken links) you can, to help people to find strong concepts for the topic you are proposing.
+Provide all the references to official documentations (to reduce broken links)
+you can, to help people to find strong concepts for the topic you are proposing.
 
 * [data structures Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 
