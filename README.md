@@ -15,13 +15,13 @@ meetings.
 ## How to participate in our Pair Programming meetings
 
 We will try to schedule a pair programming exercise every week,
-free to join to all the participants in our Telegram group:
+open and free to join to all the participants in our Telegram group:
 
 * Telegram Group: [FCC Venezuela](https://t.me/fccvzla)
 
 ## Repository Structure
 
-This rap has the following structure:
+This repository has the following structure:
 
 ``` bash
 lessons
