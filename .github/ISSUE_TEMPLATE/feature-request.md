@@ -21,16 +21,12 @@ assignees: Hmerin
 - [ ] Yes
 - [x] No
 
-A clear and concise description of what the problem is. Ex. I don't find the repo structure easy to [...]
+A clear and concise description of what the problem is. Ex. Exercises on [...] can be done because [...]
 
-**Describe the solution you'd like**
+**Describe the feature you suggest**
 
-A clear and concise description of what you want to happen.
+Describe how this feature enhances the project and how it can be implemented.
 
-**Describe alternatives you've considered**
-
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
+**Additional context or support for your feature**
 
 Add any other context or screenshots about the feature request here.
