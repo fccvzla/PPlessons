@@ -11,8 +11,8 @@ At this example we are going to study the different paradigms used to maintain o
 
 List or links to this repository for previous Knowledge topics eg.:
 
-* Css and how does it work
-* html
+* [Css and how does it work](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [html](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ## References
 
